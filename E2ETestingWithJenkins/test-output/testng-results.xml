@@ -1,35 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-07T15:47:09 IST" name="Suite" finished-at="2024-12-07T15:50:38 IST" duration-ms="209166">
+  <suite started-at="2024-12-18T12:26:25 IST" name="Default suite" finished-at="2024-12-18T12:27:02 IST" duration-ms="37219">
     <groups>
     </groups>
-    <test started-at="2024-12-07T15:47:09 IST" name="Test" finished-at="2024-12-07T15:50:38 IST" duration-ms="209166">
-      <class name="E2ETesting.TC_004_LaunchWebPage1">
-        <test-method signature="LaunchSauceDemo()[pri:0, instance:E2ETesting.TC_004_LaunchWebPage1@72f926e6]" started-at="2024-12-07T15:50:00 IST" name="LaunchSauceDemo" finished-at="2024-12-07T15:50:38 IST" duration-ms="37346" status="PASS">
+    <test started-at="2024-12-18T12:26:25 IST" name="Default test" finished-at="2024-12-18T12:27:02 IST" duration-ms="37219">
+      <class name="E2ETesting.TC_005_DragDop">
+        <test-method signature="DragDrop()[pri:0, instance:E2ETesting.TC_005_DragDop@31368b99]" started-at="2024-12-18T12:26:25 IST" name="DragDrop" finished-at="2024-12-18T12:27:02 IST" duration-ms="36949" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LaunchSauceDemo -->
-      </class> <!-- E2ETesting.TC_004_LaunchWebPage1 -->
-      <class name="E2ETesting.TC_003_LaunchWebPage1">
-        <test-method signature="LaunchSauceDemo()[pri:0, instance:E2ETesting.TC_003_LaunchWebPage1@39529185]" started-at="2024-12-07T15:49:20 IST" name="LaunchSauceDemo" finished-at="2024-12-07T15:50:00 IST" duration-ms="40606" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LaunchSauceDemo -->
-      </class> <!-- E2ETesting.TC_003_LaunchWebPage1 -->
-      <class name="E2ETesting.TC_001_LaunchWebPage1">
-        <test-method signature="LaunchSauceDemo()[pri:0, instance:E2ETesting.TC_001_LaunchWebPage1@31368b99]" started-at="2024-12-07T15:47:09 IST" name="LaunchSauceDemo" finished-at="2024-12-07T15:48:41 IST" duration-ms="92233" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LaunchSauceDemo -->
-      </class> <!-- E2ETesting.TC_001_LaunchWebPage1 -->
-      <class name="E2ETesting.TC_002_LaunchWebPage1">
-        <test-method signature="LaunchSauceDemo()[pri:0, instance:E2ETesting.TC_002_LaunchWebPage1@2145b572]" started-at="2024-12-07T15:48:41 IST" name="LaunchSauceDemo" finished-at="2024-12-07T15:49:20 IST" duration-ms="38698" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LaunchSauceDemo -->
-      </class> <!-- E2ETesting.TC_002_LaunchWebPage1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- DragDrop -->
+      </class> <!-- E2ETesting.TC_005_DragDop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

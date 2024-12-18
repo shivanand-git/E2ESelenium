@@ -7,6 +7,7 @@
       <class name="E2ETesting.TC_002_LaunchWebPage1"/>
       <class name="E2ETesting.TC_003_LaunchWebPage1"/>
       <class name="E2ETesting.TC_004_LaunchWebPage1"/>
+      <class name="E2ETesting.TC_005_DragDop"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
